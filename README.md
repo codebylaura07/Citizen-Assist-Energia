@@ -168,7 +168,7 @@ Os testes com usuários externos e os respectivos comentários e ajustes deverã
 **Instituição:** FIAP  
 **Global Solution:** 2026.2
 
-- Vídeo técnico no YouTube: a inserir.
+- Vídeo técnico no YouTube: https://youtu.be/fFZVOA7nHkg
 - Integrantes: Laura Godoy Callegari rm 569181
                Mariana Dreset Carbollan rm 569207
 
